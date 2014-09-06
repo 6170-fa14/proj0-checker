@@ -84,3 +84,5 @@ catch(err) {
 }
 
 console.log("Task 9 checked");
+
+console.log("Success! All tasks have passed our checker.");
